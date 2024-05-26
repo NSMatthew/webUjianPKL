@@ -1,0 +1,13 @@
+.menuText{
+    color: grey;
+}
+
+.menuText{
+    color: black;
+    text-decoration: underline;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
